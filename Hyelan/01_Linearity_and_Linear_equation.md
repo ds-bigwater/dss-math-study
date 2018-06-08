@@ -1,3 +1,6 @@
+![equation](http://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Cpartial%5E2%20%7D%7B%5Cpartial%20x%5E2%7D%5Ciint_%7Ba%7D%5E%7Bb%7DA)  
+
+
 ## 01강. 선형성 정의 및 1차 연립방정식 의미
 
 ### 00. Linearity 선형성
