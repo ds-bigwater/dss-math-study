@@ -1,14 +1,12 @@
-%latex
-
 ## 01강. 선형성 정의 및 1차 연립방정식 의미
 
 ### 00. Linearity 선형성
 
 - Linearity 행렬로 표현되는 것이 기본적으로 선형성을 만족해야 함
-    - $f(x), x라는 변수에 대해서 function/operation 을 가지느냐 $
+    - $$f(x), x라는 변수에 대해서 function/operation 을 가지느냐 $$
     
 - 조건 2가지를 만족할 때 Linearity 성립
-    - 1. Superposition(중첩의 원리) : $f(x_{1}+x_{2}) = f(x_{1}) + f(x_{2})$
+    - 1. Superposition(중첩의 원리) : $$f(x_{1}+x_{2}) = f(x_{1}) + f(x_{2})$$
     - 2. Homogeniety $f(ax) = af(x)$ , a는 constant 
     - $f(a_{1}x_{1}+a_{2}x_{2})=a_{1}f(x_{1})+a_{2}f(x_{2})$ : 이 조건을 만족할 때 선형성이 있다고 함, 이런 것들 선형대수에서 다룬다.
 
